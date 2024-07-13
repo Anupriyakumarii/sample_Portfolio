@@ -1,7 +1,7 @@
 import projects from "../../data/projects.json";
 // import { getImageUrl } from "../../utilis";
 import styles from "./Projects.module.css";
-import image from "../../../public/project/project.png";
+import image from "../../../public/project/common_project.png";
 
 const Projects = () => {
   return (

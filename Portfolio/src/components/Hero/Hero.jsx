@@ -10,10 +10,7 @@ const Hero = () => {
           I am a Front-end Development with 2 years of experience using
           React.Reach out If you would like to learn more!
         </p>
-        <a
-          href="mailto:anupriya.ak0809@gmaill.com"
-          className={style.contactBtn}
-        >
+        <a href="mailto:xyz@gmaill.com" className={style.contactBtn}>
           Contact Me
         </a>
       </div>

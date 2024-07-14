@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className={style.container}>
       <div className={style.content}>
-        <h1 className={style.title}>Hi,I am Anupriya</h1>
+        <h1 className={style.title}>Hi,I am Joe</h1>
         <p className={style.description}>
           I am a Front-end Development with 2 years of experience using
           React.Reach out If you would like to learn more!
@@ -18,7 +18,7 @@ const Hero = () => {
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImageee.png")}
+        src={getImageUrl("hero/aboutImageee.png")}
         alt="Hero image of me"
         className={style.HeroImg}
       ></img>

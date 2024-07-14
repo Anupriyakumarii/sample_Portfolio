@@ -23,6 +23,10 @@
   flex-direction: row;
   align-items: center;
 }
+
+.aboutImg{
+  backdrop-filter: blur(50px);
+}
 .aboutItems{
   color: var(--color-text);
   display: flex;

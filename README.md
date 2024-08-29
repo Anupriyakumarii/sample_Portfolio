@@ -1,4 +1,4 @@
-# This is a sample Responsive Portfolio using React.js which showcase about the skills, Experience and projects..
+# This is a sample Responsive Portfolio using React.js which showcase about the skills, Experience and projects.
 
 
 
